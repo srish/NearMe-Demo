@@ -1,0 +1,35 @@
+*:focus {
+	outline:none !important;
+}
+
+.no-padding {
+	padding: 0px;
+}
+
+.places-container {
+	padding: 10px;
+	margin: 20px;
+}
+
+.places-container button {
+	background: #7C7CE0;
+	color: white;
+}
+
+#places-list .item hr {
+	border-top: 1px solid #7C7CE0;
+	width: 94%;
+}
+
+#places-list .item p {
+	color: gray;
+    font-size: 10px;
+}
+
+#places-list .item img {
+	float: right;
+}
+
+#places-list .item a {
+	color: #7C7CE0;
+}
